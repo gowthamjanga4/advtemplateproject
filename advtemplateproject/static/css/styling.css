@@ -1,0 +1,19 @@
+html{
+height:100%;
+}
+body{
+background:url('/static/images/download.jpg');
+background-size:cover;
+background-repeat:no-repeat;
+
+nav{
+background:red !important;
+}
+}
+nav a{
+color:White !important;
+}
+h1{
+text-align:center;
+color:white !important;
+}
